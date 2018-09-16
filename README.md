@@ -1,2 +1,2 @@
 # PUI2018_ss12513
-This repotisory constains homework submission for Principles of Urban Informatics 2018
+This repository contains homework submissions for Principles of Urban Informatics 2018
