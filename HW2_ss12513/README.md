@@ -5,16 +5,16 @@ Part 1
 
 I created test.csv in HW2_ss12513. It was deleted from the repository to illustrate how to remove sensitive data.
 
-![Image](screenshot1.png)
+![Image](Screenshot1.png)
 
-![Image](screenshot2.png)
+![Image](Screenshot2.png)
 
-![Image](screenshot3.png)
+![Image](Screenshot3.png)
 
-![Image](screenshot4.png)
+![Image](Screenshot4.png)
 
-![Image](screenshot5.png)
+![Image](Screenshot5.png)
 
-![Image](screenshot6.png)
+![Image](Screenshot6.png)
 
-![Image](screenshot7.png)
+![Image](Screenshot7.png)
