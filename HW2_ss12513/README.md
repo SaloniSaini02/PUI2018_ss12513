@@ -1,4 +1,4 @@
-# Assignment 2
+# Homework 2
 This folder contains PUI_2018 HW2 submission.
 
 Part 1
