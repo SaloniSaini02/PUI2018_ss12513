@@ -27,4 +27,4 @@
 - Environment variable is PUIDATA is set. The dataset is downloaded and moved to PUIDATA.
 - The times.txt file is read and the journey durations of the sample are stored.
 - The population mean and population standard devation are set to 36 and 6 respectively as given by the problem statement. The sample mean is calcluated. 
-- z statistic is calculated as 2.55639718617. The z-statistic is compared with the significance level and the Null Hypothesis is rejected.  
+- Z-statistic is calculated as 2.55639718617. The z-statistic is compared with the significance level and the Null Hypothesis is rejected.  
