@@ -6,6 +6,7 @@
 * The data from Staten Island from the year 2016 is used to create the plot.
  
 ![Create test.csv](Average-Sale-Price-Staten-Island.png)
+Figure 1: Plot of Average Sale Price of houses sold in Staten Island in the year 2016 by zipcode
 
 ## Assignment 2
 
