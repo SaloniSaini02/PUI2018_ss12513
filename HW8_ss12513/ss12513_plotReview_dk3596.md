@@ -4,6 +4,9 @@ Comments by: Devashish Khulbe (dk3596)
 
 ## Plot: Average sales price by zipcode in Staten Island in 2016
 
+![average-sale-price-staten-island](https://user-images.githubusercontent.com/24549241/48323150-b9ffcf80-e5f8-11e8-87dc-2cd8548c5072.png)
+
+
 ## Clarity:
 
 - The plot(map) is easy to read and the size is proper. Apart from the zip code '10314', which is a little difficult to read as it clashes with the boundary of the area, all the 
