@@ -15,3 +15,17 @@ categories. For example, it can be made more intuitive by starting the price fro
  making classes for every $50,000.
  
 - In the values for the legend, the currency of the sale prices could be added ($).
+
+## Aesthetics:
+
+- The map looks clear and simple and the choice of colors is proper and intuitive.
+
+## Honesty:
+
+- The map is showing all the data including the zipcodes and the sale prices of all the areas.
+
+## Changes:
+
+- The main changes may include the simpler ranges for classification and the addition of 
+the currency we are dealing here in the legend. Also, the depiction of zip '10314' can be made 
+clearer by reducing the font size or shifting the text position.
