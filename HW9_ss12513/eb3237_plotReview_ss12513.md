@@ -1,9 +1,11 @@
 ## Assignment 1 Peer Review
 
-Plot 1
+# Plot 1
+
 ![Create test.csv](HW-9-1.png)
 
-Plot 2
+# Plot 2
+
 ![Create test.csv](HW-9-2.png)
 
 Two plots have been created to show the median house prices in five cities for the past one year. From the first plot it is easy to 
